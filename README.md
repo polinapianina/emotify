@@ -8,13 +8,6 @@
 
 This project is an application that detects a user's emotions from their facial expressions and recommends music based on their expression. The system processes webcam images to identify emotions and uses Spotify's API to play songs that match the detected emotion.
 
-## Team Members
-
-[Oluwapelumi Adesiyan](https://github.com/oadesiyan) <br />
-[Polina Belova](https://github.com/polinapianina) <br />
-[Gabriella Codrington](https://github.com/gabriella-codrington) <br />
-[Maya Mabry](https://github.com/mam10023) <br />
-
 ## Overview of System Architecture
 
 This system consists of three interconnected components:
